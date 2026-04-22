@@ -34,6 +34,12 @@ export const Route = createRootRoute({
       { name: "author", content: "NeuroRead" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "NeuroRead — Where news meets inclusivity" },
+      { name: "twitter:title", content: "NeuroRead — Where news meets inclusivity" },
+      { property: "og:description", content: "Inclusive, simplified news for ADHD, dyslexic, and autistic readers." },
+      { name: "twitter:description", content: "Inclusive, simplified news for ADHD, dyslexic, and autistic readers." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e06947f2-4166-40a1-a8c0-07e9a7614207/id-preview-632fcf28--759a63e1-63d1-40df-9f6b-012ffdaa9d39.lovable.app-1776813391185.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e06947f2-4166-40a1-a8c0-07e9a7614207/id-preview-632fcf28--759a63e1-63d1-40df-9f6b-012ffdaa9d39.lovable.app-1776813391185.png" },
     ],
     links: [
       {
